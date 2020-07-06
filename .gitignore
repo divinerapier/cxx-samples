@@ -1,0 +1,10 @@
+# IDE
+.idea
+.vscode
+
+# Build
+build/
+cmake-build-debug/
+
+# Debug
+output.txt
